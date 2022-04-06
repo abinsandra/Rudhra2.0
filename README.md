@@ -96,7 +96,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra2.0
+$ git clone https://github.com/abinsandra/Rudhra2.0
 $ cd Rudhra
 $ chmod +x *
 $ npm i
