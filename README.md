@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra2.0/fork)
+ Click [FORK](https://github.com/abinsandra/Rudhra2.0/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/abinsandra/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
 
 ----
 
@@ -119,7 +119,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![`Prince-Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/prince-rudh)
 
-[`Prince-Rudh`](https://github.com/prince-rudh)  
+[`abinsandra`](https://github.com/abinsandra)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
